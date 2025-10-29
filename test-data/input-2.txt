@@ -1,0 +1,5 @@
+# Create a ship with 1 torpedos in each cannon that never fail
+GT4500,1,0,1,0
+TORPEDO,SINGLE  # should have fired from primary store
+TORPEDO,SINGLE  # should have fired from secondary store
+TORPEDO,SINGLE  # shouldnt fire from primary store
