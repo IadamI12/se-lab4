@@ -1,0 +1,4 @@
+# Create a ship with 2 ammo in primary, 0 in secondary (trying to shoot primary 2 times in a row)
+GT4500,2,0,0,0
+TORPEDO,SINGLE  # shoot primary
+TORPEDO,SINGLE  #shoot primary again
